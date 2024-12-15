@@ -1,0 +1,14 @@
+{ "columns":6,
+ "image":"..\/..\/assets\/sprites\/characterSpritesheet.png",
+ "imageheight":64,
+ "imagewidth":96,
+ "margin":0,
+ "name":"characterSpritesheet",
+ "spacing":0,
+ "tilecount":24,
+ "tiledversion":"1.7.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

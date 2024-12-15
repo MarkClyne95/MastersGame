@@ -1,0 +1,41 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/!CL_DEMO_48x48.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "!CL_DEMO_48x48"
+            },
+            {
+                "url": "assets/introscene.json",
+                "type": "tilemapTiledJSON",
+                "key": "introscene"
+            },
+            {
+                "url": "assets/introscene_furniture.csv",
+                "type": "tilemapCSV",
+                "key": "introscene_furniture"
+            },
+            {
+                "url": "assets/introscene_Tile Layer 1.csv",
+                "type": "tilemapCSV",
+                "key": "introscene_Tile Layer 1"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
